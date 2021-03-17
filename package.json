@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.html",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezarezayat/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "alireza rezayat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezarezayat/test/issues"
+  },
+  "homepage": "https://github.com/alirezarezayat/test#readme"
+}
